@@ -1,9 +1,9 @@
 class Author
     attr_accessor :name
 
-    def initialize 
-        @name = name
-    end
+    # def initialize 
+    #     @name = name
+    # end
 end
-author = Author.new
-author.name = "Uncle Bob" 
+# author = Author.new
+# author.name = "Uncle Bob" 
